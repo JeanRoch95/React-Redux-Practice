@@ -1,6 +1,6 @@
 # ⚛️ React-Redux Practice ⚛
 
-# React / Json Server  
+# React / Json Server / Redux / Store 
 
 ---
 
